@@ -1,0 +1,4 @@
+Salam kenal nama saya zidan dari depok
+
+Resolusi : 
+- Membuat website dengan framework javascript
